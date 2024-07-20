@@ -1,0 +1,49 @@
+.main{
+    display: flex;
+    justify-content:space-around ;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.rout{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size:60px;
+
+    
+}
+.man{
+    display: flex;
+    justify-content:space-around;
+}
+.box{
+    width:300px;
+    padding: 20px;
+    height: 200px;
+    display: flex;
+    justify-content:center;
+    margin: 20px;
+    text-align: center;
+    background-color:red;
+    border: 1px solid black;
+   
+}  
+.vu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:35px;
+    color: white;
+
+} 
+.mai{
+    display: flex;
+    justify-content:space-around ;
+    font-size: 30px;
+    padding-top:110px;
+
+}
+
+
+
+
